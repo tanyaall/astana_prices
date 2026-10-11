@@ -1,4 +1,4 @@
-# astana_prices# Astana Apartment Price Model
+# Astana Apartment Price Model
 
 Predicting apartment prices in Astana, Kazakhstan from krisha.kz listings, and showing where the estimate can and cannot be trusted.
 
